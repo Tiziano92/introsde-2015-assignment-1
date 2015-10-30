@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people>
+    <person id="1">
+        <firstname>George R. R.</firstname>
+        <lastname>Martin</lastname>
+        <birthdate>1984-09-20T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-09-20T18:00:00.000+02:00</lastupdate>
+            <weight>90.0</weight>
+            <height>1.7</height>
+            <bmi>31.14</bmi>
+        </healthprofile>
+    </person>
+    <person id="2">
+        <firstname>Tiziano</firstname>
+        <lastname>Antico</lastname>
+        <birthdate>1992-04-13T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2015-09-20T18:00:00.000+02:00</lastupdate>
+            <weight>70.0</weight>
+            <height>1.78</height>
+            <bmi>23.4</bmi>
+        </healthprofile>
+    </person>
+    <person id="3">
+        <firstname>Luigi</firstname>
+        <lastname>Denitto</lastname>
+        <birthdate>1990-05-18T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2012-10-30T18:00:00.000+02:00</lastupdate>
+            <weight>50.0</weight>
+            <height>1.67</height>
+            <bmi>13.4</bmi>
+        </healthprofile>
+    </person>
+    <person id="4">
+        <firstname>Nicola</firstname>
+        <lastname>Pepa</lastname>
+        <birthdate>2000-12-01T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2000-11-03T18:00:00.000+02:00</lastupdate>
+            <weight>54.0</weight>
+            <height>1.4</height>
+            <bmi>13.4</bmi>
+        </healthprofile>
+    </person>
+    <person id="5">
+        <firstname>Marco</firstname>
+        <lastname>Da Vinci</lastname>
+        <birthdate>1890-01-11T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>1994-12-13T18:00:00.000+02:00</lastupdate>
+            <weight>90.0</weight>
+            <height>2.03</height>
+            <bmi>60.4</bmi>
+        </healthprofile>
+    </person>
+    <person id="6">
+        <firstname>Gigio</firstname>
+        <lastname>Rossi</lastname>
+        <birthdate>1994-11-13T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-18T18:00:00.000+02:00</lastupdate>
+            <weight>80.0</weight>
+            <height>1.9</height>
+            <bmi>54.23</bmi>
+        </healthprofile>
+    </person>
+    <person id="7">
+        <firstname>Pasquale</firstname>
+        <lastname>Foglia</lastname>
+        <birthdate>1991-01-05T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2010-01-01T18:00:00.000+02:00</lastupdate>
+            <weight>75.0</weight>
+            <height>1.73</height>
+            <bmi>36.32</bmi>
+        </healthprofile>
+    </person>
+    <person id="8">
+        <firstname>Mario</firstname>
+        <lastname>Verdi</lastname>
+        <birthdate>1996-12-23T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2012-02-06T18:00:00.000+02:00</lastupdate>
+            <weight>60.0</weight>
+            <height>1.5</height>
+            <bmi>12.12</bmi>
+        </healthprofile>
+    </person>
+    <person id="9">
+        <firstname>Luca</firstname>
+        <lastname>Montecchiari</lastname>
+        <birthdate>1993-07-31T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>1999-10-27T18:00:00.000+02:00</lastupdate>
+            <weight>75.0</weight>
+            <height>1.9</height>
+            <bmi>26.5</bmi>
+        </healthprofile>
+    </person>
+    <person id="10">
+        <firstname>Chiara</firstname>
+        <lastname>Montecchiari</lastname>
+        <birthdate>1995-05-03T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2000-01-19T18:00:00.000+02:00</lastupdate>
+            <weight>100.0</weight>
+            <height>1.8</height>
+            <bmi>60.0</bmi>
+        </healthprofile>
+    </person>
+    <person id="11">
+        <firstname>Giacomo</firstname>
+        <lastname>Andreani</lastname>
+        <birthdate>1992-01-01T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>1993-06-30T18:00:00.000+02:00</lastupdate>
+            <weight>60.0</weight>
+            <height>1.6</height>
+            <bmi>30.2</bmi>
+        </healthprofile>
+    </person>
+    <person id="12">
+        <firstname>Mariella</firstname>
+        <lastname>Albini</lastname>
+        <birthdate>1978-12-31T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2006-08-18T18:00:00.000+02:00</lastupdate>
+            <weight>112.0</weight>
+            <height>1.95</height>
+            <bmi>25.3</bmi>
+        </healthprofile>
+    </person>
+    <person id="13">
+        <firstname>Marino</firstname>
+        <lastname>Lumi</lastname>
+        <birthdate>1992-06-12T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2006-08-29T18:00:00.000+02:00</lastupdate>
+            <weight>78.0</weight>
+            <height>1.88</height>
+            <bmi>46.0</bmi>
+        </healthprofile>
+    </person>
+    <person id="14">
+        <firstname>Alice</firstname>
+        <lastname>Biondi</lastname>
+        <birthdate>1985-11-11T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2005-09-19T18:00:00.000+02:00</lastupdate>
+            <weight>63.0</weight>
+            <height>1.92</height>
+            <bmi>30.25</bmi>
+        </healthprofile>
+    </person>
+    <person id="15">
+        <firstname>Francesca</firstname>
+        <lastname>Scodanibbio</lastname>
+        <birthdate>1992-10-17T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2003-12-18T18:00:00.000+02:00</lastupdate>
+            <weight>75.0</weight>
+            <height>1.75</height>
+            <bmi>75.5</bmi>
+        </healthprofile>
+    </person>
+    <person id="16">
+        <firstname>Dario</firstname>
+        <lastname>Vinciguerra</lastname>
+        <birthdate>1980-06-30T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2002-02-08T18:00:00.000+02:00</lastupdate>
+            <weight>93.0</weight>
+            <height>1.85</height>
+            <bmi>31.12</bmi>
+        </healthprofile>
+    </person>
+    <person id="17">
+        <firstname>Maria</firstname>
+        <lastname>Strazzullo</lastname>
+        <birthdate>1992-05-10T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2000-01-18T18:00:00.000+02:00</lastupdate>
+            <weight>112.0</weight>
+            <height>1.72</height>
+            <bmi>80.13</bmi>
+        </healthprofile>
+    </person>
+    <person id="18">
+        <firstname>Edoardo</firstname>
+        <lastname>Cotognini</lastname>
+        <birthdate>1992-01-16T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2002-07-01T18:00:00.000+02:00</lastupdate>
+            <weight>92.0</weight>
+            <height>1.82</height>
+            <bmi>70.3</bmi>
+        </healthprofile>
+    </person>
+    <person id="19">
+        <firstname>Letizia</firstname>
+        <lastname>Luzi</lastname>
+        <birthdate>1993-10-23T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2000-01-01T18:00:00.000+02:00</lastupdate>
+            <weight>100.0</weight>
+            <height>1.6</height>
+            <bmi>50.23</bmi>
+        </healthprofile>
+    </person>
+    <person id="20">
+        <firstname>Alessandro</firstname>
+        <lastname>Marini</lastname>
+        <birthdate>1992-01-31T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2008-11-25T18:00:00.000+02:00</lastupdate>
+            <weight>74.0</weight>
+            <height>1.82</height>
+            <bmi>75.23</bmi>
+        </healthprofile>
+    </person>
+</people>
