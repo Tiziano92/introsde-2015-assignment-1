@@ -1,2 +1,5 @@
-# introsde-2015-assignment-1
-First assignment repository
+- Tasks the code does: The code of the first part of this assignment is about implementing some functions using java and running them with a console. Mainly, it allows you to extract some information from the populated "people.xml" file. The second part is about managing an XML document and XSD document. We have used them for marshalling and un-marshalling operations. The program allows you also to convert an XML document to a JSON's one.
+
+- About the code: Classes in the code have been structureted into packages to be more understandable. In each class there are functions and some comments to allow external people to understand what the code does. A build document has been used to link (thanks to ANT) all the project's parts.
+
+- How to run the code: To run the code, first of all, you need to install all the softwares required (such as: ant, apache, tomcat, Ivy etc) and solve all the dependencies. Then, you have to compile the project. This has been done using the command "ant compile" in the folder where the build.xml is located. After that, to execute the program, you need to type the command "ant execute.evaluation".
